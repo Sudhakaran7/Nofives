@@ -1,0 +1,24 @@
+For some reason, Varun doesn't like number 5, so he wants to calculate how many number present in between the given range without digit 5 in that number.
+
+Sample input:
+12 18
+
+Sample output:
+6
+
+Explanation:
+the count is 6, because except number 15 all other numbers doesn't contain 5
+so 12,13,14,16,17,18 these are the numbers without 5 in its digits.
+so the count is 6.
+
+Sample input:
+45 66
+
+Sample output:
+10
+
+Sample input:
+51 59
+
+Sample output:
+0
